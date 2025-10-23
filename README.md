@@ -1,7 +1,3 @@
-# LoL Skins
-
-League of Legends skin assets organized by champion and skin IDs.
-
 # lolskins - League of Legends skin assets organized by champion and skin IDs
 
 <div align="center">
