@@ -44,15 +44,14 @@ skins/
 ### File Organization
 
 - **Champion IDs**: Numeric identifiers (e.g., 1, 10, 101, etc.)
-- **Skin IDs**: 6-digit numbers (e.g., 100000, 100001, etc.)
-- **Chroma IDs**: 6-digit numbers (e.g., 100010, 100011, etc.)
+- **Skin & Chroma IDs**: Calculated as `champion_id * 1000 + skin_number` - can be 4, 5, or 6 digits (e.g., 1000, 10000, 100000)
 - **File Types**: 
   - `.png` - Preview images
   - `.zip` - Complete skin asset packages
 
 ## Getting Started
 
-1. **Download LeagueUnlocked**: Get the latest installer from our [releases page](https://github.com/AlbanCliquet/LeagueUnlockedReleases/releases/latest)
+1. **Download LeagueUnlocked**: Get the latest installer from our [releases page](https://github.com/AlbanCliquet/LeagueUnlocked/releases/latest)
 2. **Install the Tool**: Follow the installation instructions
 3. **Browse Skins**: Use this repository to preview available skins
 4. **Apply Skins**: Use LeagueUnlocked to apply any skin in-game
