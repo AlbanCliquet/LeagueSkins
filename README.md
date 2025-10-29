@@ -1,4 +1,4 @@
-# ✨ lolskins - League of Legends Skins Assets
+# ✨ LeagueSkins - League of Legends Skins Assets
 
 <div align="center">
   <img src="./icon.png" alt="League Unlocked Icon" width="128" height="128">
