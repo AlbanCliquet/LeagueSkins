@@ -3,7 +3,7 @@
 <div align="center">
   <img src="./icon.png" alt="LeagueUnlocked Icon" width="128" height="128">
   
-  [![Installer](https://img.shields.io/badge/Installer-Windows-blue)](https://github.com/AlbanCliquet/LeagueUnlockedReleases/releases/latest)
+  [![Installer](https://img.shields.io/badge/Installer-Windows-blue)](https://github.com/AlbanCliquet/LeagueUnlocked/releases/latest)
   [![Discord](https://img.shields.io/discord/1426680928759189545?color=5865F2&logo=discord&logoColor=white&label=Discord)](https://discord.com/invite/cDepnwVS8Z)
 </div>
 
